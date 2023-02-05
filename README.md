@@ -2,12 +2,12 @@
 Exploratory analysis of NBA stats
 
 To do:
-  - Set up github properly and workflow using it
+  - Set up github properly and workflow using it (done)
   - Turn webscraper into package
   - Use python best practice on package
   - Use virtual environments with package and future notebooks
   - Problem analysis and classification
-  - Data wrangling
+  - Data wrangling (done)
   - Data exploration
   - Model development(?)
   - Model evaluation
