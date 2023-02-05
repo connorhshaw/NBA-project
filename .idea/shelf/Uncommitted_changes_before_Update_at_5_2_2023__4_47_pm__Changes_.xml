@@ -1,0 +1,34 @@
+<changelist name="Uncommitted_changes_before_Update_at_5_2_2023,_4_47_pm_[Changes]" date="1675626468596" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_2_2023,_4_47_pm_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 5/2/2023, 4:47 pm [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="all_players.csv" />
+    <option name="AFTER_PATH" value="Data/all_players.csv" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_2_2023,_4_47_pm_[Changes]/all_players.csv" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="players.csv" />
+    <option name="AFTER_PATH" value="Data/players.csv" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_2_2023,_4_47_pm_[Changes]/players.csv" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="teams.csv" />
+    <option name="AFTER_PATH" value="Data/teams.csv" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_2_2023,_4_47_pm_[Changes]/teams.csv" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="games.csv" />
+    <option name="AFTER_PATH" value="Data/games.csv" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_2_2023,_4_47_pm_[Changes]/games.csv" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="all_teams.csv" />
+    <option name="AFTER_PATH" value="Data/all_teams.csv" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_2_2023,_4_47_pm_[Changes]/all_teams.csv" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="mvp-all-years.csv" />
+    <option name="AFTER_PATH" value="Data/mvp-all-years.csv" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_2_2023,_4_47_pm_[Changes]/mvp-all-years.csv" />
+  </binary>
+</changelist>

@@ -1,0 +1,15 @@
+diff --git a/nba-stat-getter.py b/web-scraper/nba-stat-getter.py
+rename from nba-stat-getter.py
+rename to web-scraper/nba-stat-getter.py
+diff --git a/nba_web_scraper.py b/web-scraper/nba_web_scraper.py
+rename from nba_web_scraper.py
+rename to web-scraper/nba_web_scraper.py
+diff --git a/csv-compiler.py b/web-scraper/csv-compiler.py
+rename from csv-compiler.py
+rename to web-scraper/csv-compiler.py
+diff --git a/teams_to_csv.py b/Data/teams_to_csv.py
+rename from teams_to_csv.py
+rename to Data/teams_to_csv.py
+diff --git a/player_to_csv.py b/web-scraper/player_to_csv.py
+rename from player_to_csv.py
+rename to web-scraper/player_to_csv.py
