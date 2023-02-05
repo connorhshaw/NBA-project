@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01c61e30-a2e7-41fd-b326-7b30ae79b081" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/all_players.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/all_players.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all_teams.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/all_teams.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv-compiler.py" beforeDir="false" afterPath="$PROJECT_DIR$/web-scraper/csv-compiler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/games.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvp-all-years.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/mvp-all-years.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nba-stat-getter.py" beforeDir="false" afterPath="$PROJECT_DIR$/web-scraper/nba-stat-getter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nba_web_scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/web-scraper/nba_web_scraper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_to_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/web-scraper/player_to_csv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/players.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/players.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teams.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/teams.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teams_to_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data/teams_to_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/all_players.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/all_teams.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/games.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/mvp-all-years.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/players.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/teams.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +156,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data/teams_to_csv.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web-scraper/teams_to_csv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675625530999</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1675626560927</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675626560927</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
