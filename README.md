@@ -1,17 +1,43 @@
 # NBA-project
 Exploratory analysis of NBA stats
 
-To do:
+High-level to-do list:
+  - Problem analysis and classification
+  - Data sourcing
+  - Data cleaning
+  - Data exploration
+  - Feature selection and engineering
+  - Model development
+  - Model deployment(?) explore this
+  - Model evaluation
+
+Data cleaning/exploration to do's:
+  - Drop unnecessary columns
+  - Add seed #
+  - Turn relevant categorical columns into numerical (split out)
+  - Add column definitions somewhere
+  - Trim data set using minimum values
+  - Investigate dropped duplicates. Maybe there is a better way to handle these.
+  - Investigate limiting time period for data
+
+Feature selection to-do's:
+  - Normalise values(?)
+  - MVP Share as dependent variable
+  - Add a feature for past MVP wins
+
+Model development to-do's:
+  - Support Vector Machines (SVM)
+  - Elastic Net
+  - Random Forest
+  - AdaBoost
+  - Gradient Boosting
+  - Light Gradient Boosting Machine (LGBM)
+  - Look at SHAP values
+
+Housekeeping to-do's:
   - Set up github properly and workflow using it (done)
   - Turn webscraper into package
   - Use python best practice on package
-  - Use virtual environments with package and future notebooks
-  - Problem analysis and classification
-  - Data wrangling (done)
-  - Data exploration
-  - Model development(?)
-  - Model evaluation
-
 
 Reference:
   - https://devotedlearner.com/how-to-become-a-machine-learning-engineer/
